@@ -49,10 +49,8 @@
 
 ## 📊 Estatísticas do GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aonay&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aonay&theme=radical" alt="GitHub Streak" />
-  <br/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aonay&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
