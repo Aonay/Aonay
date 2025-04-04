@@ -1,16 +1,74 @@
-## Hi there 👋
 
-<!--
-**Aonay/Aonay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem%20Vindo!&animation=fadeIn&section=header" alt="Bem-vindo ao meu GitHub" width="100%" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Oi 👋, Dev Alan Matias aqui!</h1>
+<h3 align="center">🚀 Transformando ideias em código | Sempre aprendendo, sempre inovando.</h3>
+
+---
+
+## 🏆 Sobre mim  
+
+💻 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec  
+🚀 Apaixonado por tecnologia, inovação e desenvolvimento full-stack  
+📚 Sempre aprendendo e explorando novas tecnologias  
+🎯 Interesse em **backend, bancos de dados e desenvolvimento web**  
+
+---
+
+## 🌐 Conecte-se comigo:
+<p align="center">
+  <a href="https://www.linkedin.com/in/alanmmatias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Aonay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚙️ Tecnologias e Ferramentas:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aonay&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aonay&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aonay&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 🚀 Projetos em Destaque  
+
+🔹 [Projeto Pix para ônibus](https://github.com/Aonay/seu-projeto-pix) - Pagamentos via Pix para transporte público.  
+🔹 [Outro Projeto Legal](https://github.com/Aonay/outro-projeto) - Descrição breve do projeto.  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aonay&label=Visualizações&color=blue&style=flat" alt="Contador de Visitantes" />
+</p>
+
+🚀 *"Código é poesia e cada linha conta uma história!"*
+
+
