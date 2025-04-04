@@ -7,7 +7,8 @@
 <h1 align="center">Oi 👋, Dev Alan Matias aqui!</h1>
 <h3 align="center">🚀 Transformando ideias em código | Sempre aprendendo, sempre inovando.</h3>
 
----
+<br>
+<br>
 
 ## 🏆 Sobre mim  
 
@@ -16,7 +17,8 @@
 📚 Sempre aprendendo e explorando novas tecnologias  
 🎯 Interesse em **backend, bancos de dados e desenvolvimento web**  
 
----
+<br>
+<br>
 
 ## 🌐 Conecte-se comigo:
 <p align="center">
@@ -24,7 +26,8 @@
   <a href="https://github.com/Aonay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<br>
+<br>
 
 ## ⚙️ Tecnologias e Ferramentas:
 <p align="center">
@@ -45,23 +48,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
----
+<br>
+<br>
 
 ## 📊 Estatísticas do GitHub:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aonay&theme=radical" alt="GitHub Streak" />
   <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aonay&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
----
 
-## 🚀 Projetos em Destaque  
-
-🔹 [Projeto Pix para ônibus](https://github.com/Aonay/seu-projeto-pix) - Pagamentos via Pix para transporte público.  
-🔹 [Outro Projeto Legal](https://github.com/Aonay/outro-projeto) - Descrição breve do projeto.  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aonay&label=Visualizações&color=blue&style=flat" alt="Contador de Visitantes" />
