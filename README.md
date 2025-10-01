@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem%20Vindo!&animation=fadeIn&section=header" alt="Bem-vindo ao meu GitHub" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=Bem%20Vindo!&animation=fadeIn&section=header" alt="Bem-vindo ao meu GitHub" width="100%" />
 </p>
 
 
@@ -12,8 +12,8 @@
 
 ## 🏆 Sobre mim  
 
-💻 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec - PG
-👨‍💼 Estágiario na Prefeitura de Praia Grande/SP no Setor de Suporte de Informática
+💻 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec - PG  
+👨‍💼 Estágiario na Prefeitura de Praia Grande/SP no Setor de Suporte de Informática  
 🚀 Apaixonado por tecnologia, inovação e desenvolvimento full-stack  
 📚 Sempre aprendendo e explorando novas tecnologias  
 🎯 Interesse em **backend, bancos de dados e desenvolvimento web**  
