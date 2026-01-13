@@ -13,7 +13,7 @@
 ## 🏆 Sobre mim  
 
 💻 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec - PG  
-👨‍💼 Estágiario na Prefeitura de Praia Grande/SP no Setor de Suporte de Informática  
+👨‍💼 Estágiario na Prefeitura de Praia Grande/SP no Setor de Suporte de Informática e Redes
 🚀 Apaixonado por tecnologia, inovação e desenvolvimento full-stack  
 📚 Sempre aprendendo e explorando novas tecnologias  
 🎯 Interesse em **backend, bancos de dados e desenvolvimento web**  
