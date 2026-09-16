@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Oi, me chamo Alan, sou Estudante de Desenvolviemento de Software Multiplataforma</h1>
+<h1 align="center">Oi, me chamo Alan, Formado Desenvolviemento de Software Multiplataforma 2026</h1>
 <h3 align="center">🚀 Transformando ideias em código | Sempre aprendendo, sempre inovando.</h3>
 
 <br>
@@ -12,7 +12,7 @@
 
 ## 🏆 Sobre mim  
 
-💻 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec - PG  
+💻  **Desenvolvedor de Software Multiplataforma** na Fatec - PG  
 👨‍💼 Estágiario na Prefeitura de Praia Grande/SP no Setor de Suporte de Informática e Redes <br>
 🚀 Apaixonado por tecnologia, inovação e desenvolvimento full-stack  
 📚 Sempre aprendendo e explorando novas tecnologias  
