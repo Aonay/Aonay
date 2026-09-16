@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center">Oi, me chamo Alan, Formado Desenvolviemento de Software Multiplataforma 2026</h1>
+<h1 align="center">Oi, me chamo Alan, Formado em Desenvolviemento de Software Multiplataforma 2026 </h1>
 <h3 align="center">🚀 Transformando ideias em código | Sempre aprendendo, sempre inovando.</h3>
 
 <br>
